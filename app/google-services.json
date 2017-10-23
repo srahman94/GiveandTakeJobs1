@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "827947559629",
+    "firebase_url": "https://give-and-take-jobs.firebaseio.com",
+    "project_id": "give-and-take-jobs",
+    "storage_bucket": "give-and-take-jobs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827947559629:android:5d122c89134f6ed2",
+        "android_client_info": {
+          "package_name": "com.example.sujon.giveandtakejobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827947559629-l6llbjvu89ra3b2t4eunf9rrb7v1b2jv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7MkXKdbrmSiJp6Fg0524bipi1O6tKk48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
